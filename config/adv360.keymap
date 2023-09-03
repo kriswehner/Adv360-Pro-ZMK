@@ -46,7 +46,7 @@
         &trans &trans &trans &trans &trans &trans  &none                                           &none &trans &trans &trans &trans  &trans  &trans
         &trans &trans &trans &trans &trans &trans  &none        &trans &trans &trans &trans        &none &trans &trans &trans &trans  &trans  &trans
         &trans &trans &trans &trans &trans &trans                      &trans &trans                     &trans &trans &trans &trans  &trans  &trans
-        &trans &hp VOL_UP &kp VOL_DN &kp MUTE &trans               &trans &trans &trans &trans &trans &trans              &trans &trans &trans  &kp PLAY  &kp PAUSE
+        &trans &kp VOL_UP &kp VOL_DN &kp MUTE &trans               &trans &trans &trans &trans &trans &trans              &trans &trans &trans  &kp PLAY  &kp PAUSE
       >;
     };
     mod {
